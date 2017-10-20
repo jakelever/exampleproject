@@ -2,6 +2,8 @@
 
 This is just an example project and I've added a new sentence and another one
 
+Important plans are below:
+
 - List 1
 - List 2
 
