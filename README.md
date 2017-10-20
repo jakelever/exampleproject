@@ -1,6 +1,6 @@
 # exampleproject
 
-This is just an example project
+This is just an example project and I've added a new sentence and another one
 
 - List 1
 - List 2
