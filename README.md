@@ -1,5 +1,7 @@
 # exampleproject
 
+This is just an example project
+
 - List 1
 - List 2
 
